@@ -1,1 +1,1 @@
-### Deploy CAFESTORE on PAAS.
+### Building a food recommanding website.
